@@ -4,7 +4,7 @@
   Hi there! I am Paavamaani Manchala
 </h1>
 
-<p> I am a driven software engineer with a passion for creating large-scale web applications. As a student pursuing a Master's degree in Software Engineering, I bring both academic knowledge and 3 years of professional experience to the table. My experience in building complex and high-performance web applications has honed my skills in architecture, scalability, and problem-solving, and I am eager to continue my growth and make a meaningful impact in the field </p>
+<p> Specializing in building exceptional digital experiences, I am a software engineer currently pursuing a Master's degree at San Jose State University. With 3 years of professional experience and expertise in architecture, scalability, and problem-solving, I am dedicated to advancing my skills and making a meaningful impact in the field </p>
 
 <div>
   <h2 align="left"> Digital Footprint <img src="https://komarev.com/ghpvc/?username=paavamaani&label=Visitors&color=0e75b6&style=flat" alt="paavamaani" /> </h2>
