@@ -14,8 +14,6 @@
   <a href="https://www.linkedin.com/in/paavamaani">
     <img align="left" alt="Paavamaani's LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
   </a>
-
-  [<img align="left" alt="Paavamaani's Email" width="22px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />](mailto:paavamaanimanchala@gmail.com)
   
   <br>
   
@@ -26,9 +24,6 @@
   </a>
   <a href="https://github.com/paavamaani">
     <img align="left" alt="Paavamaani's GitHub" width="22px" src="https://docs.github.com/assets/cb-803/images/site/favicon.svg" />
-  </a>
-  <a href="https://drive.google.com/drive/folders/1YuEYLva8MhZNYY5zgz3Y1ds4YkI0DWWm?usp=sharing">
-    <img align="left" alt="Paavamaani's GitHub" width="22px" src="https://camo.githubusercontent.com/78970772c54aad16d3d5ec6f8ba3ba5e2f5c238ca1940345b44a78b97e6235df/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c655f64726976652e737667" />
   </a>
 </div>
 
