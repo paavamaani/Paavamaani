@@ -2,7 +2,7 @@
   Hi there! I am Paavamaani Manchala
 </h1>
 
-<p> Specializing in building exceptional digital experiences, I am a software engineer currently pursuing a Master's degree at San Jose State University. With 3 years of professional experience and expertise in architecture, scalability, and problem-solving, I am dedicated to advancing my skills and making a meaningful impact in the field </p>
+<p> Experienced full-stack engineer specializing in creating responsive, cross-browser compatible digital experiences, with a strong emphasis on web performance optimization and SEO </p>
 
 <div>
   <h2 align="left"> Digital Footprint <img src="https://komarev.com/ghpvc/?username=paavamaani&label=Visitors&color=0e75b6&style=flat" alt="paavamaani" /> </h2>
